@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\work2023\\hairexportproject\\plugins\\groomexport\\intermediate\\build\\win64\\unrealeditor\\development\\groomexport\\module.groomexport.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\work2023\\hairexportproject\\intermediate\\build\\win64\\hairexportprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\work2023\\hairexportproject\\plugins\\groomexport\\intermediate\\build\\win64\\unrealeditor\\development\\groomexport\\definitions.groomexport.h",
+            "e:\\work2023\\hairexportproject\\plugins\\groomexport\\intermediate\\build\\win64\\unrealeditor\\inc\\groomexport\\groomexport.init.gen.cpp",
+            "e:\\work2023\\hairexportproject\\plugins\\groomexport\\intermediate\\build\\win64\\unrealeditor\\inc\\groomexport\\groomexporter.gen.cpp",
+            "e:\\work2023\\hairexportproject\\plugins\\groomexport\\source\\groomexport\\public\\groomexporter.h",
+            "e:\\program files (x86)\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\exporters\\exporter.h",
+            "e:\\program files (x86)\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\exporter.generated.h",
+            "e:\\work2023\\hairexportproject\\plugins\\groomexport\\intermediate\\build\\win64\\unrealeditor\\inc\\groomexport\\groomexporter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GroomExport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"..\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\Module.GroomExport.cpp.obj"
+"..\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\Module.GroomExport.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"..\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\UnrealEditor-GroomExport.lib"

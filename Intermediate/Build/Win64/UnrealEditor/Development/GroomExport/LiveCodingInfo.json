@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GroomExport.cpp.obj": [
+			"GroomExport.cpp.obj",
+			"GroomExporter.cpp.obj"
+		],
+		"Module.GroomExport.gen.cpp.obj": [
+			"GroomExport.init.gen.cpp.obj",
+			"GroomExporter.gen.cpp.obj"
+		]
+	}
+}

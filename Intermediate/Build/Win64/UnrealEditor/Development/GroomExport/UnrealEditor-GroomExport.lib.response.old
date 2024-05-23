@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GroomExport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\work2023\HairExportProject\Intermediate\Build\Win64\HairExportProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\work2023\HairExportProject\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\Module.GroomExport.cpp.obj"
+"E:\work2023\HairExportProject\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\Module.GroomExport.gen.cpp.obj"
+"E:\work2023\HairExportProject\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\Default.rc2.res"
+/OUT:"E:\work2023\HairExportProject\Plugins\GroomExport\Intermediate\Build\Win64\UnrealEditor\Development\GroomExport\UnrealEditor-GroomExport.lib"
